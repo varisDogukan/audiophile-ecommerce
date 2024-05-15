@@ -54,7 +54,7 @@ Users should be able to:
 ## Author
 
 - LinkedIn - [Doğukan Variş](https://www.linkedin.com/in/dogukanvaris/)
-- Frontend Mentor - [@do-Va](https://www.frontendmentor.io/profile/do-Va)
+- Frontend Mentor - [@varisDogukan]([https://www.frontendmentor.io/profile/do-Va](https://www.frontendmentor.io/profile/varisDogukan))
 
 ## Setup
 
